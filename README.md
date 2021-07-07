@@ -1,6 +1,13 @@
-# food_discovery_ui
+# Food Discovery Ui
 
-A new Flutter project.
+**A simple flutter ui design** <br/>
+**Make a simple Food Discovery Ui application**
+
+### Screenshots
+<img src='/screenshots/screenshot-1.png' width='200' height='400'>
+
+**Created by AmirHossein Jahangiri**<br/>
+*My artistic name is Surena*
 
 ## Getting Started
 
